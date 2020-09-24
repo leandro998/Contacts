@@ -14,9 +14,7 @@
             android:id="@+id/contacts_fragment"
             android:name="com.example.contacts.ContactFragment"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            app:navGraph="@navigation/navigation"
-            app:defaultNavHost="true" />
+            android:layout_height="match_parent" />
 
 
     </LinearLayout>
